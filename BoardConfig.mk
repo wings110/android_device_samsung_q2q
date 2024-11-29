@@ -9,7 +9,7 @@ include device/samsung/sm8350-common/BoardConfigCommon.mk
 
 # Kernel
 TARGET_KERNEL_CONFIG		:= vendor/lineage_q2q_eur_openx_defconfig
-BOARD_NAME                  := SM-F926B
+BOARD_NAME                  := SM-F926N
 
 #TARGET_PREBUILT_KERNEL := $(DEVICE_PATH)/prebuilt/Image
 #TARGET_FORCE_PREBUILT_KERNEL := true
